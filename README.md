@@ -28,4 +28,10 @@ This is a simple Simon Says game implemented using HTML, CSS, and JavaScript. Th
 
 This game was created by me (Atharvpatil322) as a simple project to practice HTML, CSS, and JavaScript skills. It is inspired by the classic Simon Says game.
 
+## Video 
+
+
+https://github.com/Atharvpatil322/simon-says/assets/127306088/8bdf8094-2ca2-4a20-9599-eb8fd5168d99
+
+
 
